@@ -1,15 +1,7 @@
-ARTIFICIAL INTELLIGENCE AND
-
-DATA SCIENCE
-
-Annotation Project:
-
 Sentiment Analysis on IMDB Movie Reviews
 
 **Author:** Berkcan Özen
 
-
-Berkcan Ozen – 22063015
 
 Executive Summery
 
@@ -19,7 +11,6 @@ Introduction
 
 The global film industry, a cultural and economic powerhouse that is generating substantial revenue while captivating audiences worldwide, faces the challenge of accurately predicting a film's box office success. Traditionally, stakeholders have relied on intuition and experience to gauge audience reaction—a method fraught with financial risk, as evidenced by high-profile flops underscoring the need for a more reliable approach to decision-making. This project introduces a sentiment analysis solution aimed at providing actionable insights to movie business stakeholders. By leveraging machine learning techniques to analyze sentiments expressed in movie comments sourced from platforms like IMDB, it offers a comprehensive understanding of audience reactions and preferences. This analysis aims to empower studios, distributors, theaters, talent agencies, and other industry players to make informed decisions throughout the filmmaking process. Through the sentiment analysis model, stakeholders will gain the ability to tailor marketing strategies, optimize release schedules, and refine content to resonate more effectively with target audiences. The project aims to provide data driven insights for a new era of financial security and informed decision-making in the film industry, benefiting all stakeholders involved in the cinematic journey.
 
-Table 1
 
 Annotating data for sentiment analysis in movie comments is important for enhancing the accuracy and effectiveness of machine learning models in the movie industry. By assigning sentiment categories such as positive and negative evident by the ratings next to the movie comments, the annotated data serves as a reference for training machine learning models. This enables the models to learn and understand the connections between the linguistic elements present in the comments (e.g., word choices, syntax, and semantics) and the corresponding sentiment expressions. In this project, we will use the annotated data to provide the model with labeled examples that allow them to recognize patterns and association between the language used in the comments and the underlying sentiments conveyed. The learning process is essential for creating effective sentiment analysis models. The models are designed to accurately predict the sentiment (positive, negative) of new, previously unseen movie comments based on their linguistic characteristics, such as the words, phrases, and sentence structure used.
 
